@@ -40,17 +40,24 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#` 1
+
 
 Describe the purpose of your survey:
-```
+
+
 write your answer here...
-```
+The purpose of this survey is to identify the reasons behind the high turnover rate at a large tech company, particularly among entry- and lower-level employees. The goal is to understand employee satisfaction and uncover potential areas for improvement in the workplace environment, management practices, compensation, and career development.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
 ```
+- Target Population: All current and recently departed employees (within the last 6 months) in entry- and lower-level positions at the company.
+- Sampling Frame: Internal HR database containing contact information and employment records of all current and recently exited employees.
+- Sampling Units: Individual employees (current and recently exited).
+- Observational Units: The same individual employees who will be asked to respond to the survey based on their personal experiences and perceptions.
+
 
 Your 5-10 question survey:
 ```
@@ -65,6 +72,72 @@ Your 5-10 question survey:
 9. write your question here... (optional)
 10. write your question here... (optional)
 ```
+1. How long have you been (or were you) employed at the company?
+   - Less than 6 months
+   - 6 months to 1 year
+   - 1 to 2 years
+   - More than 2 years
+
+2. What department did you work in?
+   - Software Engineering
+   - IT Support
+   - Human Resources
+   - Customer Service
+   - Marketing
+   - Other (please specify): _______
+
+3. How satisfied were you with your overall work experience?
+   - Very satisfied
+   - Somewhat satisfied
+   - Neutral
+   - Somewhat dissatisfied
+   - Very dissatisfied
+
+4. What were the main reasons you considered leaving or actually left the company? (Select all that apply)
+   - Lack of career growth opportunities
+   - Poor management or leadership
+   - Low compensation/benefits
+   - Work-life balance issues
+   - Lack of recognition or feedback
+   - Company culture
+   - Other (please specify): _______
+
+5. Did you feel you had clear expectations and responsibilities in your role?
+   - Yes, very clear
+   - Somewhat clear
+   - Neutral
+   - Somewhat unclear
+   - Not clear at all
+
+6. How would you rate communication with your direct manager or supervisor?
+   - Excellent
+   - Good
+   - Fair
+   - Poor
+   - Very poor
+
+7. What changes would most improve employee satisfaction in your team or department?
+   - Better training/onboarding
+   - More transparent communication
+   - Opportunities for advancement
+   - Better pay or benefits
+   - Improved work-life balance
+   - Other (please specify): _______
+
+8. Would you recommend this company as a good place to work?
+   - Yes
+   - No
+   - Maybe
+
+9. (For current employees) Are you currently considering leaving the company within the next 6 months?
+   - Yes
+   - No
+   - Undecided
+
+10. Please provide any additional comments or suggestions to help improve the employee experience:
+   - (Open-ended text box)
+
+
 
 ## Part B - Survey Evaluation:
 
@@ -73,6 +146,38 @@ Identify and describe survey features:
 ```
 write your answer here
 ```
+1. Sample type: Probability sample – stratified multi-stage sampling based on province, household type, and demographic characteristics.
+
+2. Sample size: Approximately 20,000 respondents across Canada aged 15 and over.
+
+3. Target population: All non-institutionalized individuals aged 15 and older living in private dwellings in Canada’s 10 provinces.
+
+4. Sampling frame: Derived from Statistics Canada’s Dwelling Universe File (DUF), which combines census and administrative data to represent private dwellings.
+
+5. Survey mode(s): Mixed mode – Computer-assisted telephone interviews (CATI) and electronic self-response (online questionnaire).
+
+6. Timeline: Data collection for the 2018 cycle occurred from September 2018 to December 2018.
+
+7. Response rate: Approximate overall response rate was around 45–55%, though the exact figure may vary slightly by province and data source.
+
+8. Weights: Person-level weights were applied to adjust for unequal selection probabilities and non-response, ensuring representativeness.
+
+9. Data processing: Included validation checks, consistency edits, coding of open-ended responses, and linkage to administrative tax data (where consent was provided).
+
+10. Cleaning, imputation, etc.: Missing values were imputed using donor-based methods and hot-deck imputation for some key variables.
+
+11. Sources of error:
+   - Sampling error (due to sample size)
+   - Non-sampling errors (e.g., response bias, coverage error)
+   - Imputation and linkage errors
+   - Mode effects between online and telephone respondents
+
+12. Limitations, known biases, etc:
+   - Excludes people in institutions and residents of territories, so findings may not be fully generalizable to all Canadians.
+   - Self-reported data may be influenced by social desirability or recall bias.
+   - Lower response rates may introduce non-response bias if not properly adjusted for in weighting.
+
+
 
 ## Rubric
 
